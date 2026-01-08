@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------------
 # MANDATORY SETTINGS
 # ------------------------------------------------------------------------------
-project_id = "your-gcp-project-id" # !!! REPLACE THIS VALUE !!!
+project_id = "kenthua-alto-dev" # !!! REPLACE THIS VALUE !!!
 
 # GitHub repository details for the trigger
 github_owner     = "kenthua"       # !!! REPLACE THIS VALUE !!!
