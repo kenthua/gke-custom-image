@@ -6,7 +6,7 @@ project_id = "kenthua-alto-dev" # !!! REPLACE THIS VALUE !!!
 # GitHub repository details for the trigger
 github_owner     = "kenthua"       # !!! REPLACE THIS VALUE !!!
 github_repo_name = "gke-custom-image" # !!! REPLACE THIS VALUE !!!
-source_image = "gke-1340-gke2201000-cos-121-18867-199-28-c-pre" # !!! REPLACE THIS VALUE !!!
+source_image = "gke-1341-gke3355002-cos-125-19216-104-32-c-pre" # !!! REPLACE THIS VALUE !!!
 
 # ------------------------------------------------------------------------------
 # OPTIONAL SETTINGS (Defaults are in variables.tf)
