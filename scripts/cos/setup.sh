@@ -32,4 +32,7 @@ sed -i -e '/^\s*linux/ s/$/ spec_rstack_overflow=off/' "${EFI_DIR}/efi/boot/grub
 umount "${EFI_DIR}"
 rmdir "${EFI_DIR}"
 
+touch /var/custom-image
+echo "Custom Image Script"
+
 echo "Kernel command line updated successfully."
